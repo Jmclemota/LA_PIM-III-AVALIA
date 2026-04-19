@@ -13,8 +13,7 @@ Os diagramas de classes representam a **estrutura do sistema**, incluindo suas c
 Demonstrar de forma clara a organização interna do sistema, evidenciando:
 
 - As principais classes do sistema  
-- Seus atributos e métodos  
-- Os relacionamentos entre as classes (associação, herança, dependência, etc.)  
+- Seus atributos e métodos   
 
 ---
 
